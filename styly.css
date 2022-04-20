@@ -1,0 +1,16 @@
+body {
+    
+    background: #978ee6 url("../MyJs/img/wallhaven-13x79v.jpg")   no-repeat 50% 0;
+  }
+  
+  .back {
+    background: #978ee6 url("../MyJs/img/wallhaven-13x79v.jpg")   no-repeat 50% 0;
+  }
+
+  h1 {
+    width: 260px;
+    font-family: "Georgia", serif;
+    font-size: 36px;
+    line-height: 36px;
+    color: aqua;
+  }
